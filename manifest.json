@@ -1,0 +1,19 @@
+{
+  "description": "Extension removing scrolling functionality on YouTube while playing fullscreen video",
+  "manifest_version": 2,
+  "name": "YT don't scroll on fullscreen",
+  "version": "1.0",
+  "homepage_url": "https://example.com",
+  "icons": {
+    "48": "icons/YTdSF-48.png",
+    "96": "icons/YTdSF-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["script.js"]
+    }
+  ]
+
+}
