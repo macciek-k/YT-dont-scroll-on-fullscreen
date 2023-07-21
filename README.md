@@ -1,0 +1,1 @@
+# YT-dont-scroll-on-fullscreen
