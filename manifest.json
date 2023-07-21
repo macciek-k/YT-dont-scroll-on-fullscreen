@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "YT don't scroll on fullscreen",
   "version": "1.0",
-  "homepage_url": "https://example.com",
+  "homepage_url": "https://github.com/macciek-k/YT-dont-scroll-on-fullscreen",
   "icons": {
     "48": "icons/YTdSF-48.png",
     "96": "icons/YTdSF-96.png"
